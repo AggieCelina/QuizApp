@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title">Why don\'t you find out with whom philosopher should you go for a drink?</string>
+    <string name="quest1">What would you like to drink?</string>
+    <string name="ans1a">Beer</string>
+    <string name="ans1b">Green Tea</string>
+    <string name="ans1c">Vodka</string>
+    <string name="ans1d">Red wine</string>
+    <string name="quest2">What is the source of happinnes?</string>
+    <string name="ans2a">Following the Will.</string>
+    <string name="ans2b">Understanding everything is temporal.</string>
+    <string name="ans2c">Liberating the labour.</string>
+    <string name="ans2d">Accepting your existance is prior to the essence of your life.</string>
+    <string name="quest3">What do you do in your free time?</string>
+    <string name="ans3a">Walk down the dark isles of your gothic city.</string>
+    <string name="ans3b">Sit. Just sit back and relax.</string>
+    <string name="ans3c">Warm up to revolution</string>
+    <string name="ans3d">Drink wine with some cool lads in some chic restaurants.</string>
+    <string name="quest4">Does the world exist?</string>
+    <string name="ans4a">The world exists as the will and representation of your percepts.</string>
+    <string name="ans4b">The world is samsara.</string>
+    <string name="ans4c">The world is completely material and cognisable.</string>
+    <string name="ans4d">The world vibrates with absolute freedom and loneliness.</string>
+    <string name="quest5">What do you like to wear?</string>
+    <string name="ans5a">A worker\'s cap</string>
+    <string name="ans5b">A jacket</string>
+    <string name="ans5c">A tail-coat and a white shirt</string>
+    <string name="ans5d">Some comfy loose robes</string>
+    <string name="ans5e">A dress</string>
+    <string name="hint">Type your name here.</string>
+    <string name="submit">Submit</string>
+    <string name="AS">You prefer XIX-th century romantic atmosphere, which perfectly harmonizes with classical German idealistic philosophy. Arthur Schopenhauer would be your perfect companion.
+</string>
+    <string name="D">You prefer Buddhist attitude to life - reconciling with fate and feeling compassion for all the living creatures on their long way to final Nirvana. You should definitely contemplate with Dalai Lama.
+</string>
+    <string name="L">You are born revolutionist. You believe that all the material world, besides which nothing exists, can be changed according to your will. Wladimir Lenin would be your perfect comrade.
+</string>
+    <string name="Sdb">You would like to liberate from petty-bourgeoisie superstitions, but you find that beside the curtain of cultural barriers there is nothing more than freezing emptiness. You should definitely deliberate with Simone de Beauvoir.</string>
+</resources>

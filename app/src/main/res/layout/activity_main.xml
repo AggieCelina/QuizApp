@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="aggiecelina.quizapp.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title"
+            android:textSize="20sp"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_marginLeft="4sp"/>
+
+        <EditText
+            android:id="@+id/nameEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint" />
+
+        <TextView
+            android:text="@string/quest1"
+            style="@style/question"/>
+
+            <RadioButton
+                android:id="@+id/ans1a"
+                android:text="@string/ans1a"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans1b"
+                android:text="@string/ans1b"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans1c"
+                android:text="@string/ans1c"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans1d"
+                android:text="@string/ans1d"
+                style="@style/text"/>
+
+        <TextView
+            android:text="@string/quest2"
+            style="@style/question"/>
+
+            <RadioButton
+                android:id="@+id/ans2a"
+                android:text="@string/ans2a"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans2b"
+                android:text="@string/ans2b"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans2c"
+                android:text="@string/ans2c"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans2d"
+                android:text="@string/ans2d"
+                style="@style/text"/>
+
+        <TextView
+            android:text="@string/quest3"
+            style="@style/question"/>
+
+            <RadioButton
+                android:id="@+id/ans3a"
+                android:text="@string/ans3a"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans3b"
+                android:text="@string/ans3b"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans3c"
+                android:text="@string/ans3c"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans3d"
+                android:text="@string/ans3d"
+                style="@style/text"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quest4"
+            style="@style/question"/>
+
+            <RadioButton
+                android:id="@+id/ans4a"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ans4a"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans4b"
+                android:text="@string/ans4b"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans4c"
+                android:text="@string/ans4c"
+                style="@style/text"/>
+
+            <RadioButton
+                android:id="@+id/ans4d"
+                android:text="@string/ans4d"
+                style="@style/text"/>
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quest5"
+            style="@style/question"/>
+
+            <CheckBox
+                android:id="@+id/ans5a"
+                android:text="@string/ans5a"
+                style="@style/text"/>
+
+            <CheckBox
+                android:id="@+id/ans5b"
+                android:text="@string/ans5b"
+                style="@style/text"/>
+
+            <CheckBox
+                android:id="@+id/ans5c"
+                android:text="@string/ans5c"
+                style="@style/text"/>
+
+            <CheckBox
+                android:id="@+id/ans5d"
+                android:text="@string/ans5d"
+                style="@style/text"/>
+
+            <CheckBox
+                android:id="@+id/ans5e"
+                android:text="@string/ans5e"
+                style="@style/text"/>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:text="@string/submit" />
+
+        <TextView
+            android:id="@+id/viewResult"
+            style="@style/text"
+            android:textSize="20sp"/>
+
+        <ImageView
+            android:id="@+id/resultImage"
+            style="@style/image"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quest1">Czego chciałbyś/chciałabyś się napić?</string>
+    <string name="quest2">Co jest źródłem szczęścia?</string>
+    <string name="quest3">Co robisz w wolnym czasie?</string>
+    <string name="quest4">Czy świat istnieje?</string>
+    <string name="quest5">Co chciałbyś na siebie założyć?</string>
+    <string name="submit">Zatwierdź</string>
+    <string name="title">"A może chcielibyście się dowiedzieć, z którym filozofem moglibyście iść na drinka? "</string>
+    <string name="ans5a">czapkę leninówkę</string>
+    <string name="ans5b">marynarkę</string>
+    <string name="ans5c">białą koszulę i frak</string>
+    <string name="ans5d">wygodne szaty</string>
+    <string name="ans5e">sukienkę</string>
+    <string name="ans4a">"Świat istnieje jako Wola i reprezentacja Twoich postrzeżeń zmysłowych. "</string>
+    <string name="ans4b">"Świat to Samsara. "</string>
+    <string name="ans4c">"Istniejący świat jest materialny i całkowicie poznawalny. "</string>
+    <string name="ans4d">"Świat wibruje absolutną wolnością i samotnością.  "</string>
+    <string name="ans3d">Pijesz wino z intrygującymi facetami w drogich restauracjach.</string>
+    <string name="ans3c">"Wzniecasz rewolucję. "</string>
+    <string name="ans3b">"Siedzisz. Po prostu siedzisz i się relaksujesz.    "</string>
+    <string name="ans3a">Spacerujesz po ciemnych zaułkach swojego gotyckiego miasta.</string>
+    <string name="ans2d">" Akceptacja faktu, że Twojej egzystencji nie poprzedza żadna esencja."</string>
+    <string name="ans2c">Wyzwolenie klasy robotniczej.</string>
+    <string name="ans2b">" Zrozumienie, że wszystko jest czasowe. "</string>
+    <string name="ans2a">Podążanie za bezrozumną Wolą świata.</string>
+    <string name="ans1d">Czerwonego wina</string>
+    <string name="ans1c">Wódki</string>
+    <string name="ans1b">Zielonej herbaty</string>
+    <string name="ans1a">Piwa, nalejcie piwa</string>
+    <string name="AS">" Dobrze czujesz się w XIX-wiecznej romantycznej scenerii, która idealnie pasuje do klasycznej niemieckiej filozofii idealistycznej. Twoim idealnym kumplem byłby Arthur Schopenhauer."</string>
+    <string name="D">Preferujesz buddyjskie podejście do świata - pogodzenie z losem i współczucie dla wszystkich istot znajdujących się na długiej drodze do Nirwany. Powinieneś pomedytować z Dalajlamą.</string>
+    <string name="L">"Jesteś urodzonym rewolucjonistą. Wierzysz, że cały materialny świat (poza którym nic nie ma) może nagiąć się do Twojej woli. Twoim idealnym towarzyszem jest Włodzimierz Lenin. "</string>
+    <string name="Sdb">Chciałbyś/chciałabyś wyzwolić się z drobnomieszczańskich zabobonów, ale odkrywasz, że poza zasłoną norm kulturowych znajduje się już tylko mrożąca pustka. Zdecydowanie powinieneś to przedyskutować z Simone de Beauvoir..</string>
+    <string name="hint">"Tutaj wpisz swoje imię. "</string>
+</resources>
